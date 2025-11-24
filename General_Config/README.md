@@ -12,3 +12,5 @@
 | **liandu2024** | **Fallback 系列** | 侧重高可用性 (Fallback) 的各类变种 | [浏览文件夹](https://github.com/HenryChiao/mihomo_yamls/tree/main/General_Config/liandu2024) |
 | **yyhhyyyyyy** | **Single / Multi** | 自用代理配置，分单/多节点版 | [查看 Single](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/yyhhyyyyyy/mihomo_single.yaml) / [查看 Multi](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/yyhhyyyyyy/mihomo_multi.yaml) |
 | **其他** | **精选配置** | echs-top / qichiyuhub / iKeLee | [echs](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml) / [qichi](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/qichiyuhub/config.yaml) / [iKeLee](https://github.com/HenryChiao/mihomo_yamls/blob/main/General_Config/iKeLee/Clash_Sample.yaml) |
+
+[🔙 返回主页 (Return to Home)](../README.md)
