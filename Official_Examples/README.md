@@ -6,4 +6,4 @@
 | **Rule Set** | `rule-set` 模式，基础要素完备 | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/Official_Examples/Metacubex/rule-set_config.yaml) |
 | **GEOX** | `geox` 模式，基于地理数据分流 | [查看配置](https://github.com/HenryChiao/mihomo_yamls/blob/main/Official_Examples/Metacubex/geox_config.yaml) |
 
-[🔙 返回主页 (Return to Home)](../../README.md)
+[🔙 返回主页 (Return to Home)](../README.md)
