@@ -124,7 +124,7 @@
 |  |  |  |  |  |  |
 | **Android** | **FlClash** | 🟢 | 仿 Surfboard 界面，全协议，更省电。 | 覆写选项比 CMFA 略少。 | [Github](https://github.com/chen08209/FlClash/releases) |
 | **Android** | **Clash Meta (CMFA)** | 🟢 | 官方分支，设置选项最全，兼容性最好。 | UI 交互逻辑一般，已停止大版本更新(但仍好用)。 | [Github](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) |
-| **Android** | Clash Mi | 🟡 | KaringX 作者新作，全协议支持。 | 新项目，处于早期阶段。 | [Telegram](https://t.me/clash_mi) |
+| **Android** | Clash Mi | 🟡 | KaringX 作者新作，全协议支持。 | 新项目，处于早期阶段。 | [Github](https://github.com/KaringX/clashmi) |
 | **Android** | YumeBox | 🟡 | UI 美观，集成 Sub-Store 和 Smart 策略组。 | 策略组切换操作较繁琐。 | [Github](https://github.com/Dreamacro/clash/issues) |
 | **HarmonyOS** | **ClashBox** | 🟢 | (原 ClashNEXT) 基于安卓端 FlClash 二次开发。 | 需切换海外 App 商店下载，适配纯血鸿蒙。 | [Github](https://github.com/xiaobaigroup/ClashBox) |
 |  |  |  |  |  |  |
@@ -135,7 +135,7 @@
 |  |  |  |  |  |  |
 | **iOS** | **Stash** ($5.99) | 🟢 | 强大的分流与重写，集成 MitM。 | 配置文件与标准 Mihomo 不完全互通，新协议跟进慢。 | [App Store](https://apps.apple.com/app/stash/id1596063349) |
 | **iOS** | **Pharos Pro** ($2.99) | 🟢 | 一份配置通杀全平台，兼容性好。 | 佛系更新，缺席极个别 2025 新协议。 | [App Store](https://apps.apple.com/us/app/pharos-pro/id1456610173) |
-| **iOS** | Clash Mi | 🟢 | 免费/TestFlight，全协议支持。 | KaringX 新项目。 | [Telegram](https://t.me/clash_mi) |
+| **iOS** | Clash Mi | 🟢 | 免费/TestFlight，全协议支持。 | KaringX 新项目。 | [Github](https://github.com/KaringX/clashmi) |
 |  |  |  |  |  |  |
 | **路由器** | **OpenClash** | 🟢 | (OpenWrt) 功能最全，设置极其丰富。 | 启动慢，界面臃肿，吃 CPU 性能。 | [Github](https://github.com/vernesong/OpenClash) |
 | **路由器** | **Nikki** | 🟢 | (OpenWrt) 轻量化，启动快，依赖 nftables。 | 原 MihomoTProxy，适合现代 OpenWrt。 | [Github](https://github.com/nikkinikki-org/OpenWrt-nikki) |
