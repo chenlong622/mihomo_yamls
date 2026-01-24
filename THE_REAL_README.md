@@ -148,6 +148,8 @@
 | **NAS（docker）** | easy-mihomo | 🟢 | fnos的首选。 | 新星软件依赖docker | [TELEGRAM](https://github.com/wlaosj/easy-mihomo) |
 |  |  |  |  |  |  |
 | **光猫shell**  | clash-for-gigabit | 🟢 | armv7a首选。 | 新星软件，天才想法 | [github](https://github.com/linmontfurry/clash-for-gigabit) |
+|  |  |  |  |  |  |
+| **多平台shell**  | mihomo-tui-dashboard | 🟢 | 实验产品。 | 新星软件，天才想法 | [github](https://github.com/xream/mihomo-tui-dashboard) |
 
 ---
 
