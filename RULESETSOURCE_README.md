@@ -44,6 +44,8 @@
 | **luestr** | ShuntRules 分流规则 | [GitHub](https://github.com/luestr/ShuntRules) |
 | **666OS** | 规则发布仓库 | [GitHub](https://github.com/666OS/rules/tree/release) |
 | **CHIZI-0618** | V2Ray 规则数据 | [GitHub](http://github.com/CHIZI-0618/v2ray-rules-dat) |
+| **xixu-me** | RFM | [GitHub](https://github.com/xixu-me/rfm) |
+
 
 <br/>
 
@@ -57,14 +59,13 @@
 
 <br/>
 
-## 💾 其他与历史参考
+## 游戏规则
 
 部分逻辑参考或从以下项目中汲取灵感。
 
 | 项目 / 维护者 | 说明 | 链接 |
 | :--- | :--- | :---: |
-| **FQrabbit** | SSTap 规则 (历史参考) | [GitHub](https://github.com/FQrabbit/SSTap-Rule/tree/master/rules) |
-| **xixu-me** | RFM | [GitHub](https://github.com/xixu-me/rfm) |
+| **FQrabbit** | SSTap 规则 | [GitHub](https://github.com/FQrabbit/SSTap-Rule/tree/master/rules) |
 
 ---
 
