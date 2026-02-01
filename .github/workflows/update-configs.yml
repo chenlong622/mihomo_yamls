@@ -2,7 +2,8 @@ name: Update Configs
 
 on:
   schedule:
-    - cron: '30 22 * * *' # UTC 22:30 = 北京时间 06:30
+    # 每月 1, 5, 9, 13, 17, 21, 25, 29 日运行（近似每4天）
+    - cron: '30 22 1,5,9,13,17,21,25,27 * *'
   workflow_dispatch:
     inputs:
       category:
