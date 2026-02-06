@@ -80,6 +80,7 @@
 | 名称 | 评价 | 链接 |
 | :--- | :--- | :--- |
 | **MerlinClash** | 梅林固件首选，精简重构。不支持老旧 CPU 型号。 | [Telegram](https://t.me/merlinclashcat) |
+| **magic catling2** | 梅林固件首选，精简重构。不支持老旧 CPU 型号。 | [Telegram](https://t.me/merlinclashcat) |
 | MerlinClashlite | 梅林固件轻量版。 | [Telegram](https://t.me/MerlinClashLite) |
 | fancyss | 经典的科学上网插件，支持梅林。 | [Github](https://github.com/hq450/fancyss) |
 
