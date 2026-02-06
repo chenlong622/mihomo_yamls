@@ -7,7 +7,7 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 mihomo_smart.yaml
-- **大小**: 18.2 KB
+- **大小**: 16.8 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/echs-top/mihomo_smart.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -17,7 +17,7 @@
 
 
 <details>
-<summary><b>🔎 点击查看策略组架构 (31个)</b></summary>
+<summary><b>🔎 点击查看策略组架构 (27个)</b></summary>
 
 | 策略组 (Group) | 类型 (Type) |
 | :--- | :--- |
@@ -36,7 +36,7 @@
 | 👆 BILIBILI | `select` |
 | 👆 YOUTUBE | `select` |
 | 👆 AI | `select` |
-| ... | 还有 16 个 |
+| ... | 还有 12 个 |
 
 </details>
 
@@ -57,4 +57,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `mihomo_smart.yaml` | 18.2 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/echs-top/mihomo_smart.yaml) |
+| `mihomo_smart.yaml` | 16.8 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/echs-top/mihomo_smart.yaml) |
