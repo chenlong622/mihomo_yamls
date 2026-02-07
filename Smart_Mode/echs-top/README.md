@@ -7,7 +7,7 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 mihomo_smart.yaml
-- **大小**: 16.8 KB
+- **大小**: 17.6 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/echs-top/mihomo_smart.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -45,8 +45,8 @@
 
 | 类型 | 服务器 |
 | :--- | :--- |
-| DoH | `https://8.8.8.8/dns-query#PROXYDNS` |
-| DoH | `https://9.9.9.9/dns-query#PROXYDNS` |
+| DoH | `https://dns.google/dns-query#PROXYDNS` |
+| DoH | `https://dns.quad9.net/dns-query#PROXYDNS` |
 
 </details>
 
@@ -57,4 +57,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `mihomo_smart.yaml` | 16.8 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/echs-top/mihomo_smart.yaml) |
+| `mihomo_smart.yaml` | 17.6 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/echs-top/mihomo_smart.yaml) |
