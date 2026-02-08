@@ -7,36 +7,29 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 mihomo_smart.yaml
-- **大小**: 17.6 KB
+- **大小**: 15.4 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/echs-top/mihomo_smart.yaml)
-
-#### 📶 网络端口配置 (Ports)
-| 类型 | 端口/地址 | 说明 |
-| :--- | :--- | :--- |
-| Controller | 127.0.0.1:9090 | 控制面板 |
-
-
 <details>
-<summary><b>🔎 点击查看策略组架构 (27个)</b></summary>
+<summary><b>🔎 点击查看策略组架构 (19个)</b></summary>
 
 | 策略组 (Group) | 类型 (Type) |
 | :--- | :--- |
 | 👆 PROXY | `select` |
 | 👆 PROXYDNS | `select` |
-| 👆 AD | `select` |
-| 👆 SPEEDTEST | `select` |
 | 👆 FCM | `select` |
-| 👆 BOTTEST | `select` |
+| 👆 BILIBILI | `select` |
 | 👆 TELEGRAM | `select` |
 | 👆 META | `select` |
 | 👆 TWITTER | `select` |
 | 👆 TIKTOK | `select` |
 | 👆 NETFLIX | `select` |
 | 👆 SPOTIFY | `select` |
-| 👆 BILIBILI | `select` |
-| 👆 YOUTUBE | `select` |
 | 👆 AI | `select` |
-| ... | 还有 12 个 |
+| 👆 GOOGLE | `select` |
+| 🚀 国外|SMART | `smart` |
+| 🚀 香港|SMART | `smart` |
+| 🚀 台湾|SMART | `smart` |
+| ... | 还有 4 个 |
 
 </details>
 
@@ -57,4 +50,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `mihomo_smart.yaml` | 17.6 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/echs-top/mihomo_smart.yaml) |
+| `mihomo_smart.yaml` | 15.4 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/echs-top/mihomo_smart.yaml) |
