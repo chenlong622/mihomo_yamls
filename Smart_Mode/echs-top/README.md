@@ -7,7 +7,7 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 mihomo_smart.yaml
-- **大小**: 14.8 KB
+- **大小**: 15.0 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/echs-top/mihomo_smart.yaml)
 <details>
 <summary><b>🔎 点击查看策略组架构 (19个)</b></summary>
@@ -50,4 +50,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `mihomo_smart.yaml` | 14.8 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/echs-top/mihomo_smart.yaml) |
+| `mihomo_smart.yaml` | 15.0 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/echs-top/mihomo_smart.yaml) |
