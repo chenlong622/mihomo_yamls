@@ -361,48 +361,46 @@ jobs:
             mkdir -p mihomo/MetaCubeX/alpha
             mkdir -p mihomo/vernesong/smart
             
-            # 创建初始README
-            cat > README.md << 'EOF'
-            # Core 核心文件仓库
-            
-            自动构建的 sing-box 和 mihomo 核心文件。
-            
-            ## 目录结构
-            
-            ```
-            sing-box/
-            ├── reF1nd/
-            │   ├── main/      # reF1nd-main 分支
-            │   └── dev/       # reF1nd-dev 分支
-            └── SagerNet/
-                ├── release/   # SagerNet 正式版
-                └── dev/       # SagerNet 开发版
-            
-            mihomo/
-            ├── MetaCubeX/
-            │   ├── meta/      # MetaCubeX 正式版
-            │   └── alpha/     # MetaCubeX 测试版
-            └── vernesong/
-                └── smart/     # OpenClash Smart版
-            ```
-            
-            ## 平台支持
-            
-            - **Linux**: amd64-v1, amd64-v3, armv5, armv6, armv7, arm64, mips-softfloat, mipsle-softfloat, mipsle-hardfloat
-            - **Windows**: amd64-v1, amd64-v3, arm64
-            - **macOS**: amd64 (Intel), arm64 (Apple Silicon)
-            - **Android**: arm64, armv7, amd64
-            
-            ## 文件格式
-            
-            - `.tar.gz` - 标准压缩包（Linux/macOS/Android）
-            - `.exe` - Windows可执行文件
-            - `.upx` - UPX极限压缩版（仅Linux）
-            
-            ## 自动更新
-            
-            本仓库通过 GitHub Actions 每日自动检测上游更新并重新构建。
-            EOF
+            # 创建初始README（使用echo避免here-document问题）
+            echo "# Core 核心文件仓库" > README.md
+            echo "" >> README.md
+            echo "自动构建的 sing-box 和 mihomo 核心文件。" >> README.md
+            echo "" >> README.md
+            echo "## 目录结构" >> README.md
+            echo "" >> README.md
+            echo '```' >> README.md
+            echo "sing-box/" >> README.md
+            echo "├── reF1nd/" >> README.md
+            echo "│   ├── main/      # reF1nd-main 分支" >> README.md
+            echo "│   └── dev/       # reF1nd-dev 分支" >> README.md
+            echo "└── SagerNet/" >> README.md
+            echo "    ├── release/   # SagerNet 正式版" >> README.md
+            echo "    └── dev/       # SagerNet 开发版" >> README.md
+            echo "" >> README.md
+            echo "mihomo/" >> README.md
+            echo "├── MetaCubeX/" >> README.md
+            echo "│   ├── meta/      # MetaCubeX 正式版" >> README.md
+            echo "│   └── alpha/     # MetaCubeX 测试版" >> README.md
+            echo "└── vernesong/" >> README.md
+            echo "    └── smart/     # OpenClash Smart版" >> README.md
+            echo '```' >> README.md
+            echo "" >> README.md
+            echo "## 平台支持" >> README.md
+            echo "" >> README.md
+            echo "- **Linux**: amd64-v1, amd64-v3, armv5, armv6, armv7, arm64, mips-softfloat, mipsle-softfloat, mipsle-hardfloat" >> README.md
+            echo "- **Windows**: amd64-v1, amd64-v3, arm64" >> README.md
+            echo "- **macOS**: amd64 (Intel), arm64 (Apple Silicon)" >> README.md
+            echo "- **Android**: arm64, armv7, amd64" >> README.md
+            echo "" >> README.md
+            echo "## 文件格式" >> README.md
+            echo "" >> README.md
+            echo "- \`.tar.gz\` - 标准压缩包（Linux/macOS/Android）" >> README.md
+            echo "- \`.exe\` - Windows可执行文件" >> README.md
+            echo "- \`.upx\` - UPX极限压缩版（仅Linux）" >> README.md
+            echo "" >> README.md
+            echo "## 自动更新" >> README.md
+            echo "" >> README.md
+            echo "本仓库通过 GitHub Actions 每日自动检测上游更新并重新构建。" >> README.md
             
             git add .
             git commit -m "Initial commit: create core branch structure"
