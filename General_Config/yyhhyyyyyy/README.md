@@ -8,19 +8,19 @@
 
 | 特性 / 文件 | `mihomo_multi.yaml` | `mihomo_single.yaml` |
 | :--- | :--- | :--- |
-| **文件大小** | 17.3 KB | 17.0 KB |
+| **文件大小** | 17.1 KB | 16.8 KB |
 | **混合端口** | 7897 | 7897 |
 | **控制面板** | - | - |
 | **运行模式** | rule | rule |
 | **TUN 模式** | ✅ 开启 | ✅ 开启 |
 | **策略组数** | **55** | **55** |
-| **规则条数** | **27** | **27** |
+| **规则条数** | **22** | **22** |
 
 
 ## 📄 配置文件详解 (Details)
 
 ### 📝 mihomo_multi.yaml
-- **大小**: 17.3 KB
+- **大小**: 17.1 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/yyhhyyyyyy/mihomo_multi.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -67,7 +67,7 @@
 ---
 
 ### 📝 mihomo_single.yaml
-- **大小**: 17.0 KB
+- **大小**: 16.8 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/yyhhyyyyyy/mihomo_single.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -117,5 +117,5 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `mihomo_multi.yaml` | 17.3 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/yyhhyyyyyy/mihomo_multi.yaml) |
-| `mihomo_single.yaml` | 17.0 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/yyhhyyyyyy/mihomo_single.yaml) |
+| `mihomo_multi.yaml` | 17.1 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/yyhhyyyyyy/mihomo_multi.yaml) |
+| `mihomo_single.yaml` | 16.8 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/yyhhyyyyyy/mihomo_single.yaml) |
