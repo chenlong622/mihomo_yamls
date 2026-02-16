@@ -7,29 +7,27 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 mihomo.yaml
-- **大小**: 14.5 KB
+- **大小**: 11.9 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml)
 <details>
-<summary><b>🔎 点击查看策略组架构 (19个)</b></summary>
+<summary><b>🔎 点击查看策略组架构 (14个)</b></summary>
 
 | 策略组 (Group) | 类型 (Type) |
 | :--- | :--- |
 | 👆 PROXY | `select` |
 | 👆 PROXYDNS | `select` |
 | 👆 FCM | `select` |
-| 👆 BILIBILI | `select` |
 | 👆 TELEGRAM | `select` |
-| 👆 META | `select` |
-| 👆 TWITTER | `select` |
-| 👆 TIKTOK | `select` |
-| 👆 NETFLIX | `select` |
-| 👆 SPOTIFY | `select` |
 | 👆 AI | `select` |
 | 👆 GOOGLE | `select` |
-| 🔧 常用|FALLBACK | `fallback` |
+| ♻️ URLTEXT | `url-test` |
+| 🔧 FALLBACK | `fallback` |
+| 🔧 国外|FALLBACK | `fallback` |
 | 🔧 香港|FALLBACK | `fallback` |
 | 🔧 台湾|FALLBACK | `fallback` |
-| ... | 还有 4 个 |
+| 🔧 新加坡|FALLBACK | `fallback` |
+| 🔧 日本|FALLBACK | `fallback` |
+| 🔧 美国|FALLBACK | `fallback` |
 
 </details>
 
@@ -50,4 +48,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `mihomo.yaml` | 14.5 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml) |
+| `mihomo.yaml` | 11.9 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml) |
