@@ -7,7 +7,7 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 config.yaml
-- **大小**: 6.5 KB
+- **大小**: 6.6 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/Mobile_Modules/ClashMix/config.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -47,4 +47,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `config.yaml` | 6.5 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Mobile_Modules/ClashMix/config.yaml) |
+| `config.yaml` | 6.6 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Mobile_Modules/ClashMix/config.yaml) |
