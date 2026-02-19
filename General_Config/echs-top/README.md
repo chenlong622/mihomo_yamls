@@ -7,27 +7,28 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 mihomo.yaml
-- **大小**: 11.9 KB
+- **大小**: 12.0 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml)
 <details>
-<summary><b>🔎 点击查看策略组架构 (14个)</b></summary>
+<summary><b>🔎 点击查看策略组架构 (15个)</b></summary>
 
 | 策略组 (Group) | 类型 (Type) |
 | :--- | :--- |
-| 👆 PROXY | `select` |
-| 👆 PROXYDNS | `select` |
-| 👆 FCM | `select` |
+| 👆 代理连接 | `select` |
+| 👆 直接连接 | `select` |
+| 👆 代理DNS | `select` |
+| 👆 FCM推送 | `select` |
 | 👆 TELEGRAM | `select` |
-| 👆 AI | `select` |
-| 👆 GOOGLE | `select` |
-| ♻️ URLTEXT | `url-test` |
-| 🔧 FALLBACK | `fallback` |
-| 🔧 国外|FALLBACK | `fallback` |
-| 🔧 香港|FALLBACK | `fallback` |
-| 🔧 台湾|FALLBACK | `fallback` |
-| 🔧 新加坡|FALLBACK | `fallback` |
-| 🔧 日本|FALLBACK | `fallback` |
-| 🔧 美国|FALLBACK | `fallback` |
+| 👆 国外AI | `select` |
+| ♻️ 最低延迟 | `url-test` |
+| 🔧 故障转移 | `fallback` |
+| 🔧 常用|故障转移 | `fallback` |
+| 🔧 香港|故障转移 | `fallback` |
+| 🔧 台湾|故障转移 | `fallback` |
+| 🔧 新加坡|故障转移 | `fallback` |
+| 🔧 日本|故障转移 | `fallback` |
+| 🔧 美国|故障转移 | `fallback` |
+| 🔧 TG|故障转移 | `fallback` |
 
 </details>
 
@@ -36,8 +37,8 @@
 
 | 类型 | 服务器 |
 | :--- | :--- |
-| DoH | `https://dns.google/dns-query#PROXYDNS` |
-| DoH | `https://dns.quad9.net/dns-query#PROXYDNS` |
+| DoH | `https://dns.google/dns-query#代理DNS` |
+| DoH | `https://dns.quad9.net/dns-query#代理DNS` |
 
 </details>
 
@@ -48,4 +49,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `mihomo.yaml` | 11.9 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml) |
+| `mihomo.yaml` | 12.0 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml) |
