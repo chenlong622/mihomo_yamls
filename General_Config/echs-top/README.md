@@ -7,10 +7,10 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 mihomo.yaml
-- **大小**: 12.0 KB
+- **大小**: 12.4 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml)
 <details>
-<summary><b>🔎 点击查看策略组架构 (15个)</b></summary>
+<summary><b>🔎 点击查看策略组架构 (18个)</b></summary>
 
 | 策略组 (Group) | 类型 (Type) |
 | :--- | :--- |
@@ -21,14 +21,15 @@
 | 👆 TELEGRAM | `select` |
 | 👆 国外AI | `select` |
 | ♻️ 最低延迟 | `url-test` |
-| 🔧 故障转移 | `fallback` |
-| 🔧 常用|故障转移 | `fallback` |
 | 🔧 香港|故障转移 | `fallback` |
 | 🔧 台湾|故障转移 | `fallback` |
 | 🔧 新加坡|故障转移 | `fallback` |
 | 🔧 日本|故障转移 | `fallback` |
+| 🔧 韩国|故障转移 | `fallback` |
 | 🔧 美国|故障转移 | `fallback` |
-| 🔧 TG|故障转移 | `fallback` |
+| 🔧 加拿大|故障转移 | `fallback` |
+| 🔧 德国|故障转移 | `fallback` |
+| ... | 还有 3 个 |
 
 </details>
 
@@ -49,4 +50,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `mihomo.yaml` | 12.0 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml) |
+| `mihomo.yaml` | 12.4 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml) |
