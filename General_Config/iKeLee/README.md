@@ -7,7 +7,7 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 Clash_Sample.yaml
-- **大小**: 8.5 KB
+- **大小**: 8.4 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/iKeLee/Clash_Sample.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -62,4 +62,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `Clash_Sample.yaml` | 8.5 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/iKeLee/Clash_Sample.yaml) |
+| `Clash_Sample.yaml` | 8.4 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/iKeLee/Clash_Sample.yaml) |
