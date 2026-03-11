@@ -8,12 +8,12 @@
 
 | 特性 / 文件 | `AIB.yaml` | `AIO.yaml` |
 | :--- | :--- | :--- |
-| **文件大小** | 11.0 KB | 11.1 KB |
+| **文件大小** | 11.0 KB | 10.8 KB |
 | **混合端口** | 7890 | 7890 |
 | **控制面板** | 0.0.0.0:9090 | 0.0.0.0:9090 |
 | **运行模式** | Rule | Rule |
 | **TUN 模式** | ✅ 开启 | ✅ 开启 |
-| **策略组数** | **24** | **24** |
+| **策略组数** | **24** | **23** |
 | **规则条数** | **34** | **34** |
 
 
@@ -68,7 +68,7 @@
 ---
 
 ### 📝 AIO.yaml
-- **大小**: 11.1 KB
+- **大小**: 10.8 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/JohnsonRan/AIO.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -79,15 +79,14 @@
 
 
 <details>
-<summary><b>🔎 点击查看策略组架构 (24个)</b></summary>
+<summary><b>🔎 点击查看策略组架构 (23个)</b></summary>
 
 | 策略组 (Group) | 类型 (Type) |
 | :--- | :--- |
 | 👆 节点选择 | `select` |
 | 👆 自建 | `select` |
-| 👆 代理链 | `select` |
+| 👆 Massive Download | `select` |
 | 👆 Speedtest | `select` |
-| 👆 Emby | `select` |
 | 👆 AI | `select` |
 | 👆 Steam | `select` |
 | 👆 Apple | `select` |
@@ -98,7 +97,8 @@
 | 👆 Tracker | `select` |
 | 👆 Porns | `select` |
 | 👆 Bilibili | `select` |
-| ... | 还有 9 个 |
+| 👆 Microsoft | `select` |
+| ... | 还有 8 个 |
 
 </details>
 
@@ -120,4 +120,4 @@
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
 | `AIB.yaml` | 11.0 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/JohnsonRan/AIB.yaml) |
-| `AIO.yaml` | 11.1 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/JohnsonRan/AIO.yaml) |
+| `AIO.yaml` | 10.8 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/JohnsonRan/AIO.yaml) |
