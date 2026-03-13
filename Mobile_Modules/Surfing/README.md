@@ -7,7 +7,7 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 config.yaml
-- **大小**: 19.1 KB
+- **大小**: 18.7 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/Mobile_Modules/Surfing/config.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -62,4 +62,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `config.yaml` | 19.1 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Mobile_Modules/Surfing/config.yaml) |
+| `config.yaml` | 18.7 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Mobile_Modules/Surfing/config.yaml) |
