@@ -7,49 +7,8 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 smart.yaml
-- **大小**: 13.0 KB
+- **大小**: 14 B
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/qichiyuhub/smart.yaml)
-
-#### 📶 网络端口配置 (Ports)
-| 类型 | 端口/地址 | 说明 |
-| :--- | :--- | :--- |
-| Mixed (混合) | 7890 | HTTP/SOCKS |
-
-
-<details>
-<summary><b>🔎 点击查看策略组架构 (28个)</b></summary>
-
-| 策略组 (Group) | 类型 (Type) |
-| :--- | :--- |
-| 👆 🚀 默认代理 | `select` |
-| 👆 📹 YouTube | `select` |
-| 👆 🍀 Google | `select` |
-| 👆 🤖 ChatGPT | `select` |
-| 👆 👨🏿‍💻 GitHub | `select` |
-| 👆 🐬 OneDrive | `select` |
-| 👆 🪟 Microsoft | `select` |
-| 👆 🎵 TikTok | `select` |
-| 👆 📲 Telegram | `select` |
-| 👆 🎥 NETFLIX | `select` |
-| 👆 ✈️ Speedtest | `select` |
-| 👆 💶 PayPal | `select` |
-| 👆 🍎 Apple | `select` |
-| 👆 🐟 漏网之鱼 | `select` |
-| 👆 🇭🇰 香港节点 | `select` |
-| ... | 还有 13 个 |
-
-</details>
-
-<details>
-<summary><b>🌐 点击查看 DNS 配置</b></summary>
-
-| 类型 | 服务器 |
-| :--- | :--- |
-| DoH | `https://dns.alidns.com/dns-query` |
-| DoH | `https://doh.pub/dns-query` |
-
-</details>
-
 
 ---
 
@@ -57,4 +16,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `smart.yaml` | 13.0 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/qichiyuhub/smart.yaml) |
+| `smart.yaml` | 14 B | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/qichiyuhub/smart.yaml) |
