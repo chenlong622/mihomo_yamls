@@ -7,7 +7,7 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 config.yaml
-- **大小**: 6.6 KB
+- **大小**: 5.6 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/Mobile_Modules/ClashMix/config.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -18,11 +18,13 @@
 
 
 <details>
-<summary><b>🔎 点击查看策略组架构 (5个)</b></summary>
+<summary><b>🔎 点击查看策略组架构 (7个)</b></summary>
 
 | 策略组 (Group) | 类型 (Type) |
 | :--- | :--- |
 | 👆 代理 | `select` |
+| 👆 手动选择 | `select` |
+| 👆 全部节点 | `select` |
 | 🔧 自动切换 | `fallback` |
 | 🚀 智能选择 | `smart` |
 | 👆 广告 | `select` |
@@ -35,8 +37,8 @@
 
 | 类型 | 服务器 |
 | :--- | :--- |
-| DoH | `https://cloudflare-dns.com/dns-query#代理` |
-| DoH | `https://dns.google/dns-query#代理` |
+| UDP | `1.1.1.1#代理` |
+| UDP | `8.8.8.8#代理` |
 
 </details>
 
@@ -47,4 +49,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `config.yaml` | 6.6 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Mobile_Modules/ClashMix/config.yaml) |
+| `config.yaml` | 5.6 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Mobile_Modules/ClashMix/config.yaml) |
