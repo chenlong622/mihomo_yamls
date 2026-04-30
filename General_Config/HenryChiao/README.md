@@ -189,6 +189,16 @@
 
 </details>
 
+<details>
+<summary><b>🌐 点击查看 DNS 配置</b></summary>
+
+| 类型 | 服务器 |
+| :--- | :--- |
+| DoH | `https://cloudflare-dns.com/dns-query` |
+| DoH | `https://dns.google/dns-query` |
+
+</details>
+
 
 ---
 
