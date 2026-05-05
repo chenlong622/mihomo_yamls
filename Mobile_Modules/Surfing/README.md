@@ -7,7 +7,7 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 config.yaml
-- **大小**: 18.5 KB
+- **大小**: 18.7 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/Mobile_Modules/Surfing/config.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -49,8 +49,6 @@
 | 类型 | 服务器 |
 | :--- | :--- |
 | DoH | `https://dns.google/dns-query#DNS连接&h3=true` |
-| DoH | `https://dns.google/dns-query#DNS连接&h3=true` |
-| DoH | `https://cloudflare-dns.com/dns-query#DNS连接&h3=true` |
 | DoH | `https://cloudflare-dns.com/dns-query#DNS连接&h3=true` |
 
 </details>
@@ -62,4 +60,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `config.yaml` | 18.5 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Mobile_Modules/Surfing/config.yaml) |
+| `config.yaml` | 18.7 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Mobile_Modules/Surfing/config.yaml) |
