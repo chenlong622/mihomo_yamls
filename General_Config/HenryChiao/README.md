@@ -8,7 +8,7 @@
 
 | 特性 / 文件 | `MihomoAIO.yaml` | `MihomoProMax.yaml` | `MihomoProPlus.yaml` |
 | :--- | :--- | :--- | :--- |
-| **文件大小** | 30.1 KB | 27.4 KB | 27.9 KB |
+| **文件大小** | 28.3 KB | 25.7 KB | 26.2 KB |
 | **混合端口** | 7893 | 7893 | 7893 |
 | **控制面板** | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 |
 | **运行模式** | rule | rule | rule |
@@ -20,7 +20,7 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 MihomoAIO.yaml
-- **大小**: 30.1 KB
+- **大小**: 28.3 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/HenryChiao/MihomoAIO.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -81,7 +81,7 @@
 ---
 
 ### 📝 MihomoProMax.yaml
-- **大小**: 27.4 KB
+- **大小**: 25.7 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/HenryChiao/MihomoProMax.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -142,7 +142,7 @@
 ---
 
 ### 📝 MihomoProPlus.yaml
-- **大小**: 27.9 KB
+- **大小**: 26.2 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/HenryChiao/MihomoProPlus.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -206,6 +206,6 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `MihomoAIO.yaml` | 30.1 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/HenryChiao/MihomoAIO.yaml) |
-| `MihomoProMax.yaml` | 27.4 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/HenryChiao/MihomoProMax.yaml) |
-| `MihomoProPlus.yaml` | 27.9 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/HenryChiao/MihomoProPlus.yaml) |
+| `MihomoAIO.yaml` | 28.3 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/HenryChiao/MihomoAIO.yaml) |
+| `MihomoProMax.yaml` | 25.7 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/HenryChiao/MihomoProMax.yaml) |
+| `MihomoProPlus.yaml` | 26.2 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/HenryChiao/MihomoProPlus.yaml) |

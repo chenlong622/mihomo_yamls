@@ -8,7 +8,7 @@
 
 | 特性 / 文件 | `MihomoSmartAIO.yaml` | `MihomoSmartProMax.yaml` | `MihomoSmartProPlus.yaml` |
 | :--- | :--- | :--- | :--- |
-| **文件大小** | 32.1 KB | 25.1 KB | 25.7 KB |
+| **文件大小** | 30.2 KB | 23.6 KB | 24.1 KB |
 | **混合端口** | 7893 | 7893 | 7893 |
 | **控制面板** | 127.0.0.1:9090 | 127.0.0.1:9090 | 127.0.0.1:9090 |
 | **运行模式** | rule | rule | rule |
@@ -20,7 +20,7 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 MihomoSmartAIO.yaml
-- **大小**: 32.1 KB
+- **大小**: 30.2 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/HenryChiao/MihomoSmartAIO.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -81,7 +81,7 @@
 ---
 
 ### 📝 MihomoSmartProMax.yaml
-- **大小**: 25.1 KB
+- **大小**: 23.6 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/HenryChiao/MihomoSmartProMax.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -142,7 +142,7 @@
 ---
 
 ### 📝 MihomoSmartProPlus.yaml
-- **大小**: 25.7 KB
+- **大小**: 24.1 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/HenryChiao/MihomoSmartProPlus.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -206,6 +206,6 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `MihomoSmartAIO.yaml` | 32.1 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/HenryChiao/MihomoSmartAIO.yaml) |
-| `MihomoSmartProMax.yaml` | 25.1 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/HenryChiao/MihomoSmartProMax.yaml) |
-| `MihomoSmartProPlus.yaml` | 25.7 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/HenryChiao/MihomoSmartProPlus.yaml) |
+| `MihomoSmartAIO.yaml` | 30.2 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/HenryChiao/MihomoSmartAIO.yaml) |
+| `MihomoSmartProMax.yaml` | 23.6 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/HenryChiao/MihomoSmartProMax.yaml) |
+| `MihomoSmartProPlus.yaml` | 24.1 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/HenryChiao/MihomoSmartProPlus.yaml) |
