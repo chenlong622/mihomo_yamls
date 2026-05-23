@@ -7,19 +7,15 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 mihomo_smart.yaml
-- **大小**: 16.4 KB
+- **大小**: 12.6 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/echs-top/mihomo_smart.yaml)
 <details>
-<summary><b>🔎 点击查看策略组架构 (25个)</b></summary>
+<summary><b>🔎 点击查看策略组架构 (21个)</b></summary>
 
 | 策略组 (Group) | 类型 (Type) |
 | :--- | :--- |
 | 👆 代理连接 | `select` |
-| 👆 直接连接 | `select` |
-| 👆 代理QUIC | `select` |
 | 👆 代理DNS | `select` |
-| 👆 广告拦截 | `select` |
-| 👆 FCM服务 | `select` |
 | 👆 人机验证 | `select` |
 | 👆 国外AI | `select` |
 | 👆 TELEGRAM | `select` |
@@ -29,7 +25,11 @@
 | ♻️ 最低延迟 | `url-test` |
 | 🚀 香港|智能选择 | `smart` |
 | 🚀 台湾|智能选择 | `smart` |
-| ... | 还有 10 个 |
+| 🚀 新加坡|智能选择 | `smart` |
+| 🚀 日本|智能选择 | `smart` |
+| 🚀 韩国|智能选择 | `smart` |
+| 🚀 美国|智能选择 | `smart` |
+| ... | 还有 6 个 |
 
 </details>
 
@@ -52,4 +52,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `mihomo_smart.yaml` | 16.4 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/echs-top/mihomo_smart.yaml) |
+| `mihomo_smart.yaml` | 12.6 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Smart_Mode/echs-top/mihomo_smart.yaml) |
