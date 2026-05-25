@@ -8,19 +8,19 @@
 
 | 特性 / 文件 | `MihomoPro_Config.yaml` | `OneTouch_Config.yaml` |
 | :--- | :--- | :--- |
-| **文件大小** | 22.6 KB | 12.4 KB |
+| **文件大小** | 22.2 KB | 12.1 KB |
 | **混合端口** | 7893 | 7893 |
 | **控制面板** | 127.0.0.1:9090 | 127.0.0.1:9090 |
 | **运行模式** | rule | rule |
 | **TUN 模式** | 🚫 关闭 | 🚫 关闭 |
-| **策略组数** | **52** | **15** |
+| **策略组数** | **51** | **14** |
 | **规则条数** | **40** | **23** |
 
 
 ## 📄 配置文件详解 (Details)
 
 ### 📝 MihomoPro_Config.yaml
-- **大小**: 22.6 KB
+- **大小**: 22.2 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/666OS/MihomoPro_Config.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -35,12 +35,11 @@
 
 
 <details>
-<summary><b>🔎 点击查看策略组架构 (52个)</b></summary>
+<summary><b>🔎 点击查看策略组架构 (51个)</b></summary>
 
 | 策略组 (Group) | 类型 (Type) |
 | :--- | :--- |
 | 👆 默认代理 | `select` |
-| 🔧 故障转移 | `fallback` |
 | 👆 国外流量 | `select` |
 | 👆 国内流量 | `select` |
 | 👆 兜底流量 | `select` |
@@ -54,7 +53,8 @@
 | 👆 新闻媒体 | `select` |
 | 👆 电报消息 | `select` |
 | 👆 推特社交 | `select` |
-| ... | 还有 37 个 |
+| 👆 社交平台 | `select` |
+| ... | 还有 36 个 |
 
 </details>
 
@@ -72,7 +72,7 @@
 ---
 
 ### 📝 OneTouch_Config.yaml
-- **大小**: 12.4 KB
+- **大小**: 12.1 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/666OS/OneTouch_Config.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -87,12 +87,11 @@
 
 
 <details>
-<summary><b>🔎 点击查看策略组架构 (15个)</b></summary>
+<summary><b>🔎 点击查看策略组架构 (14个)</b></summary>
 
 | 策略组 (Group) | 类型 (Type) |
 | :--- | :--- |
 | 👆 一键连 | `select` |
-| 🔧 故障转移 | `fallback` |
 | 👆 人工智能 | `select` |
 | 👆 社交平台 | `select` |
 | 👆 国际媒体 | `select` |
@@ -126,5 +125,5 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `MihomoPro_Config.yaml` | 22.6 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/666OS/MihomoPro_Config.yaml) |
-| `OneTouch_Config.yaml` | 12.4 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/666OS/OneTouch_Config.yaml) |
+| `MihomoPro_Config.yaml` | 22.2 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/666OS/MihomoPro_Config.yaml) |
+| `OneTouch_Config.yaml` | 12.1 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/666OS/OneTouch_Config.yaml) |
