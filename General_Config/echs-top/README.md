@@ -7,7 +7,7 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 mihomo.yaml
-- **大小**: 12.2 KB
+- **大小**: 12.3 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml)
 <details>
 <summary><b>🔎 点击查看策略组架构 (21个)</b></summary>
@@ -38,10 +38,8 @@
 
 | 类型 | 服务器 |
 | :--- | :--- |
-| UDP | `tcp://8.8.8.8#代理DNS` |
-| UDP | `tcp://9.9.9.9#代理DNS` |
-| UDP | `tcp://[2001:4860:4860::8888]#代理DNS` |
-| UDP | `tcp://[2620:fe::fe]#代理DNS` |
+| UDP | `8.8.8.8#代理DNS` |
+| UDP | `9.9.9.9#代理DNS` |
 
 </details>
 
@@ -52,4 +50,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `mihomo.yaml` | 12.2 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml) |
+| `mihomo.yaml` | 12.3 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml) |
