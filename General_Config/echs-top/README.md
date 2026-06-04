@@ -7,21 +7,19 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 mihomo.yaml
-- **大小**: 12.5 KB
+- **大小**: 11.3 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml)
 <details>
-<summary><b>🔎 点击查看策略组架构 (21个)</b></summary>
+<summary><b>🔎 点击查看策略组架构 (19个)</b></summary>
 
 | 策略组 (Group) | 类型 (Type) |
 | :--- | :--- |
 | 👆 代理连接 | `select` |
+| 👆 直接连接 | `select` |
 | 👆 代理DNS | `select` |
-| 👆 人机验证 | `select` |
+| 👆 代理QUIC | `select` |
 | 👆 国外AI | `select` |
 | 👆 TELEGRAM | `select` |
-| 👆 国外媒体 | `select` |
-| 👆 GOOGLE | `select` |
-| 👆 TRACKER | `select` |
 | ♻️ 最低延迟 | `url-test` |
 | 🔧 香港|故障转移 | `fallback` |
 | 🔧 台湾|故障转移 | `fallback` |
@@ -29,7 +27,9 @@
 | 🔧 日本|故障转移 | `fallback` |
 | 🔧 韩国|故障转移 | `fallback` |
 | 🔧 美国|故障转移 | `fallback` |
-| ... | 还有 6 个 |
+| 🔧 加拿大|故障转移 | `fallback` |
+| 🔧 德国|故障转移 | `fallback` |
+| ... | 还有 4 个 |
 
 </details>
 
@@ -50,4 +50,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `mihomo.yaml` | 12.5 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml) |
+| `mihomo.yaml` | 11.3 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml) |
