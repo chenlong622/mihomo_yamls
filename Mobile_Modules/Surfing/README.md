@@ -50,8 +50,8 @@
 | :--- | :--- |
 | DoH | `https://8.8.8.8:443/dns-query#DNS连接&h3=true` |
 | DoH | `https://8.8.4.4:443/dns-query#DNS连接&h3=true` |
-| DoH | `https://1.1.1.1:443/dns-query#DNS连接&h3=true` |
-| DoH | `https://1.0.0.1:443/dns-query#DNS连接&h3=true` |
+| DoH | `https://1.1.1.1:443/dns-query#DNS连接&h3=false` |
+| DoH | `https://1.0.0.1:443/dns-query#DNS连接&h3=false` |
 
 </details>
 
