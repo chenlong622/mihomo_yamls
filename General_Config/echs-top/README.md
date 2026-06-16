@@ -7,7 +7,7 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 mihomo.yaml
-- **大小**: 14.1 KB
+- **大小**: 13.8 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml)
 <details>
 <summary><b>🔎 点击查看策略组架构 (27个)</b></summary>
@@ -50,4 +50,4 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `mihomo.yaml` | 14.1 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml) |
+| `mihomo.yaml` | 13.8 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/General_Config/echs-top/mihomo.yaml) |
