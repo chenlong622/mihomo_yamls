@@ -38,8 +38,8 @@
 
 | 类型 | 服务器 |
 | :--- | :--- |
-| DoH | `https://dns.google/dns-query#代理DNS` |
-| DoH | `https://dns.quad9.net/dns-query#代理DNS` |
+| DoH | `https://dns.google/dns-query#代理DNS&ecs=8.8.8.8/24&ecs-override=true` |
+| DoH | `https://dns.quad9.net/dns-query#代理DNS&ecs=9.9.9.9/24&ecs-override=true` |
 
 </details>
 
