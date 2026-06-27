@@ -5,6 +5,7 @@
   <p align="center">
     <a href="#-项目内容概览">项目介绍</a> · 
     <a href="#-我该怎么选择">选择指南</a> · 
+    <a href="https://github.com/HenryChiao/MIHOMO_YAMLS/wiki">📚 Wiki 教程</a> · 
     <a href="#-网络环境与安全检测">检测工具</a> · 
     <a href="../README.md">🔙 返回主页</a>
   </p>
@@ -41,6 +42,12 @@
     ├── 📄 CREDITS.md          # 致谢名单
     └── 📄 RULESET_README.md   # 规则集说明
 </pre>
+
+<blockquote>
+  <p>📚 <strong>想了解配置文件背后的语法和设计逻辑？</strong><br>
+  本项目配套有详细的 <a href="https://github.com/HenryChiao/MIHOMO_YAMLS/wiki"><strong>项目 Wiki</strong></a>，从零讲解 Mihomo 配置语法、规则编写思路、策略组设计等进阶内容。<br>
+  <strong>新手无需阅读</strong>，直接使用下方推荐配置即可；但如果你想"知其所以然"或打算自己动手写配置，强烈建议先逛一逛 Wiki。</p>
+</blockquote>
 
 <h3>📂 THEYAMLS · YAML 原始配置</h3>
 <p>适用于直接导入 Clash/Mihomo 客户端使用，每日自动同步上游更新。</p>
@@ -152,6 +159,7 @@
   <li><strong>使用 Smart/SmartDNS/软路由</strong> → 必须选 <a href="../THEYAMLS/Smart_Mode"><strong>Smart_Mode</strong></a></li>
   <li><strong>OpenClash 插件用户</strong> → 用 <a href="../Overwrite/THEOPENCLASH"><strong>THEOPENCLASH</strong></a> 覆写配置</li>
   <li><strong>不想折腾规则，直接订阅转换</strong> → 选 <a href="../Overwrite/THEINI"><strong>THEINI</strong></a> 中的 .ini 文件</li>
+  <li><strong>想知其所以然，自己动手写</strong> → 先读 <a href="https://github.com/HenryChiao/MIHOMO_YAMLS/wiki"><strong>📚 Wiki 教程</strong></a></li>
 </ul>
 
 <h3>🎯 快速决策表</h3>
@@ -172,7 +180,7 @@
     <tr>
       <td>想学习配置结构 / 二次魔改</td>
       <td>📖 <strong>Official_Examples</strong></td>
-      <td>仅用于参考学习，不建议直接长期使用</td>
+      <td>仅用于参考学习，不建议直接长期使用；建议搭配 📚 <a href="https://github.com/HenryChiao/MIHOMO_YAMLS/wiki">Wiki</a> 一起看</td>
     </tr>
     <tr>
       <td>使用 Smart / SmartDNS / 软路由</td>
@@ -201,8 +209,8 @@
     </tr>
     <tr>
       <td>想从零手写完整配置</td>
-      <td>❌ <strong>不推荐</strong></td>
-      <td>成本高、易踩坑、收益有限</td>
+      <td>❌ <strong>不推荐</strong>（但欢迎学习）</td>
+      <td>成本高、易踩坑、收益有限；如执意尝试，请务必先读 📚 <a href="https://github.com/HenryChiao/MIHOMO_YAMLS/wiki">Wiki 教程</a></td>
     </tr>
   </tbody>
 </table>
@@ -237,6 +245,15 @@
   1. 不确定内核类型时，默认选择 <strong>General_Config</strong><br>
   2. Smart 是<strong>自动决策系统</strong>，不是普通规则集合，不建议与普通规则混写<br>
   3. 正确路径：<strong>先使用 → 再理解 → 再修改 → 最后才是自己写</strong></p>
+</blockquote>
+
+<blockquote>
+  <p>📚 <strong>进阶学习入口：项目 Wiki</strong><br>
+  如果你已经熟悉了「先使用 → 再理解」的阶段，想进一步「修改」甚至「自己写」一份配置，<a href="https://github.com/HenryChiao/MIHOMO_YAMLS/wiki"><strong>项目 Wiki</strong></a> 会系统讲解：<br>
+  · Mihomo 配置文件的基础语法结构<br>
+  · 策略组（proxy-groups）与规则（rules）的设计逻辑<br>
+  · 如何参考本项目已有配置，逐步改造出属于自己的版本<br>
+  这是从「会用」走向「会写」最稳妥的一条路。</p>
 </blockquote>
 
 <hr>
@@ -497,6 +514,7 @@
 <!-- ==================== 底部 ==================== -->
 <p align="center">
   <strong>🔙 <a href="../README.md">返回项目主页</a></strong> &nbsp;·&nbsp; 
+  <strong>📚 <a href="https://github.com/HenryChiao/MIHOMO_YAMLS/wiki">Wiki 教程</a></strong> &nbsp;·&nbsp; 
   <strong>💬 <a href="../issues">提交 Issue</a></strong> &nbsp;·&nbsp; 
   <strong>📋 <a href="./CREDITS.md">致谢名单</a></strong>
 </p>
