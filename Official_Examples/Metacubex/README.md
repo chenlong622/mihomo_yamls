@@ -8,7 +8,7 @@
 
 | 特性 / 文件 | `geox_config.yaml` | `rule-set_config.yaml` |
 | :--- | :--- | :--- |
-| **文件大小** | 5.2 KB | 7.7 KB |
+| **文件大小** | 5.1 KB | 7.7 KB |
 | **混合端口** | 7890 | 7890 |
 | **控制面板** | 127.0.0.1:9090 | 127.0.0.1:9090 |
 | **运行模式** | Rule | Rule |
@@ -20,7 +20,7 @@
 ## 📄 配置文件详解 (Details)
 
 ### 📝 geox_config.yaml
-- **大小**: 5.2 KB
+- **大小**: 5.1 KB
 - **链接**: [查看源码](https://github.com/chenlong622/mihomo_yamls/blob/main/Official_Examples/Metacubex/geox_config.yaml)
 
 #### 📶 网络端口配置 (Ports)
@@ -119,5 +119,5 @@
 
 | 文件名 | 大小 | 链接 |
 | :--- | :--- | :--- |
-| `geox_config.yaml` | 5.2 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Official_Examples/Metacubex/geox_config.yaml) |
+| `geox_config.yaml` | 5.1 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Official_Examples/Metacubex/geox_config.yaml) |
 | `rule-set_config.yaml` | 7.7 KB | [查看](https://github.com/chenlong622/mihomo_yamls/blob/main/Official_Examples/Metacubex/rule-set_config.yaml) |
